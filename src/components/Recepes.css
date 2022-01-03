@@ -1,0 +1,30 @@
+img {
+	height: 100%;
+	width: 100%;
+}
+p {
+	text-align: left;
+}
+
+.rec_div {
+	display: grid;
+	grid-template-columns: 30% 70%;
+	width: 80%;
+}
+
+.rec_div > div {
+	height: 50px;
+	border: 2px solid rgb(245, 141, 210);
+}
+
+.details {
+	display: grid;
+	grid-template-columns: 30% 70%;
+	gap: 10%;
+	margin-left: -400px;
+    
+}
+
+.details2 {
+	width: 60%;
+}

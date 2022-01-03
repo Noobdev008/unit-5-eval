@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "title": "Biryani",
+      "ingedients": " Mutton; Chicken; Beef; Eggs; Nuts; Dried fruits; Potatoes; Other vegetables",
+      "time": "3.00 Pm",
+      "image": "https://c.ndtvimg.com/2021-05/k43fiip_biryani650_650x400_10_May_21.jpg",
+      "instructions": "The dish is cooked slowly on burned out coal embers and another hot coal is put on top of the vessel. As the biryani cooks the dough seal starts to dry out which then begins to release steam indicating to the cook that the dish is cooked. Dhum comes from the test used to show whether it is ready.",
+      "id": 1
+    },
+    {
+      "title": "Pastaa",
+      "image": "https://theclevermeal.com/wp-content/uploads/2020/06/quick-pasta-recipes-15.jpg",
+      "ingedients": "eggs, salt and water",
+      "instructions": "Use about 4 quarts of water for every 1 pound of pasta. In general, the more pasta you are cooking, the more water you should use to prevent the pasta from clumping up too much in the pot.",
+      "time": "4.00 Am",
+      "id": 2
+    },
+    {
+      "title": "Pizza",
+      "instructions": "Slide the pizza off of the peel and onto the baking stone in the oven. Bake pizza: Bake pizza in the 475°F oven, one at a time, until the crust is browned and the cheese is golden, about 10-15 minutes.",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/pizza-recipe.jpg",
+      "time": "5.00 am",
+      "ingedients": "Dough, sauce (usually tomato sauce), cheese",
+      "id": 3
+    },
+    {
+      "image": "https://foodish-api.herokuapp.com/images/butter-chicken/butter-chicken3.jpg",
+      "title": "Butter chicken",
+      "ingedients": "chicken",
+      "time": "2",
+      "instructions": "spicy",
+      "id": 4
+    }
+  ]
+}
